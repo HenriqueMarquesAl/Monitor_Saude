@@ -28,12 +28,6 @@ O app solicita informações sobre **nível de energia, qualidade do sono e nív
 
 ---
 
-## 📸 Demonstração
-
-_(Adicione aqui prints da tela ou até mesmo um GIF do app rodando para deixar mais atrativo)_  
-
----
-
 ## 📂 Como executar o projeto
 
 ### Pré-requisitos:
